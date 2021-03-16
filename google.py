@@ -1,6 +1,3 @@
-#certificate link
-#https://codingcompetitions.withgoogle.com/hashcode/certificate/summary/0000000000435809
-
 lett = ["b", "c", "d", "e", "f"]
 for l in lett:
 
